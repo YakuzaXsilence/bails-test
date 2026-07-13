@@ -1,7 +1,7 @@
 {
-  "name": "@ayunlove/bails",
-  "version": "2.4.11",
-  "description": "WhatsApp Modified By AYUN/OTA — Complete Baileys API with GraphQL, Privacy, Interop, Username support",
+  "name": "@YakuzaXsilence/bails",
+  "version": "8.4.11",
+  "description": "WhatsApp Modified By OmhcMbud — Complete Baileys API with GraphQL, Privacy, Interop, Username support",
   "keywords": [
     "whatsapp-baileys",
     "ayunlove",
@@ -10,9 +10,9 @@
     "WhatsApp",
     "wa-bot"
   ],
-  "homepage": "https://github.com/ayunlove/bails",
+  "homepage": "https://github.com/YakuzaXsilence/bails",
   "repository": {
-    "url": "https://www.npmjs.com/package/@ayunlove/bails"
+    "url": "https://github.com/OmhcSilence/baileys"
   },
   "license": "MIT",
   "author": "Orang Biasa",
@@ -49,7 +49,7 @@
     "chalk": "^4.1.2",
     "crypto-js": "^4.2.0",
     "jimp": "^1.6.1",
-    "libsignal": "npm:@otaxayun/libsignal-node@latest",
+    "libsignal": "npm:@omhc071/libsignal-node@latest",
     "lru-cache": "^11.1.0",
     "music-metadata": "^11.12.3",
     "p-queue": "^9.0.0",

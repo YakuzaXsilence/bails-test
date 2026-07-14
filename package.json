@@ -49,7 +49,7 @@
     "chalk": "^4.1.2",
     "crypto-js": "^4.2.0",
     "jimp": "^1.6.1",
-    "libsignal": "npm:@otaxayun/libsignal-node@latest",
+    "libsignal": "npm:@omhc071/libsignal-node@latest",
     "lru-cache": "^11.1.0",
     "music-metadata": "^11.12.3",
     "p-queue": "^9.0.0",
